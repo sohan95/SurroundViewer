@@ -1,0 +1,44 @@
+//
+//  CiscoIPICSVideoStreamer~Prefix.pch
+//  CiscoIPICSVideoStreamer
+//
+//  Created by Apple on 25/11/15.
+//  Copyright © 2015 eInfochips. All rights reserved.
+//
+
+#ifndef CiscoIPICSVideoStreamer_Prefix_pch
+#define CiscoIPICSVideoStreamer_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* CiscoIPICSVideoStreamer_Prefix_pch */
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <CoreData/CoreData.h>
+    #import <AVFoundation/AVFoundation.h>
+#endif
+
+#import "VLCConstants.h"
+#import "OnvifConstants.h"
+
+//#define DEBUG_MODE
+//
+//#ifdef DEBUG_MODE
+////#define DebugLog( s, ... )
+//#define DebugLog( s, ... ) NSLog( @"<%p %@:(%d)> %@", self, [[NSString stringWithUTF8String:__FILE__] lastPathComponent], __LINE__, [NSString stringWithFormat:(s), ##__VA_ARGS__] )
+//#else
+//#define DebugLog( s, ... )
+//#endif
+
+//#ifdef DEBUG
+//#   define DLog(fmt, ...) NSLog((@"%s [Line %d] " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+//#else
+//#   define DLog(...)
+//#endif
+
+//#define DEBUG 1    //or YES
+#define NSLog if(DEBUG)NSLog
+#define printf if(DEBUG)printf

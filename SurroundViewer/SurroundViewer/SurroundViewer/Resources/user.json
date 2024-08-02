@@ -1,0 +1,265 @@
+{
+  "user": {
+    "Email": "admin@surroundapp.com",
+    "UserName": "admin",
+    "Password": "admin123",
+    "identifier": "askdhjskahdajksdhajksd",
+    "firstName": "Zeeshan",
+    "lastName": "Khan",
+    "contactNumber": "980 4566 456465",
+    "profilePicture": "http://s3.amazonaws.com/37assets/svn/765-default-avatar.png",
+    "profilePictureThumbnail": "http://s3.amazonaws.com/37assets/svn/765-default-avatar.png",
+    "gender": 1,
+    "dob": 127051941,
+    "userType": 1,
+    "sessionToken": "bearerasdsadasdsdasd",
+    "location": {
+      "latitude": 36.7783,
+      "longitude": 119.4179,
+      "imageMap": null
+    }
+  },
+  "friendsCameras": [
+    {
+      "name": "Micheal Fiserburg",
+      "emailId": "friendscamera0@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_0",
+      "location": {
+        "longitude": 56.60144,
+        "latitude": 23.4598456,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Adam Scandaler",
+      "emailId": "friendscamera1@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_1",
+      "location": {
+        "longitude": 56.601441,
+        "latitude": 23.45984561,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Justin Batemann",
+      "emailId": "friendscamera2@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_2",
+      "location": {
+        "longitude": 56.601442,
+        "latitude": 23.45984562,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Michele Anna",
+      "emailId": "friendscamera3@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_3",
+      "location": {
+        "longitude": 56.601443,
+        "latitude": 23.45984563,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Ausitn Huwe",
+      "emailId": "friendscamera4@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_4",
+      "location": {
+        "longitude": 56.601444,
+        "latitude": 23.45984564,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "FriendsCamera-5",
+      "emailId": "friendscamera5@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": 2147483647,
+      "identifier": "Identifier_FriendsCamera_5",
+      "location": {
+        "longitude": 56.601445,
+        "latitude": 23.45984565
+      }
+    },
+    {
+      "name": "Friends Camera-6",
+      "emailId": "friendscamera6@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_6",
+      "location": {
+        "longitude": 56.601446,
+        "latitude": 23.45984566,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Nigel Quine",
+      "emailId": "friendscamera7@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_7",
+      "location": {
+        "longitude": 56.601447,
+        "latitude": 23.45984567,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Friends Camera-8",
+      "emailId": "friendscamera8@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_8",
+      "location": {
+        "longitude": 56.601448,
+        "latitude": 23.45984568,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Amanda Kruger",
+      "emailId": "friendscamera9@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_9",
+      "location": {
+        "longitude": 56.601449,
+        "latitude": 23.45984569,
+        "imageMap": null
+      }
+    }
+  ],
+  "channelCategories": [],
+  "cameras": [
+    {
+      "name": "Micheal Fiserburg",
+      "emailId": "friendscamera0@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_0",
+      "location": {
+        "longitude": 56.60144,
+        "latitude": 23.4598456,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Adam Scandaler",
+      "emailId": "friendscamera1@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_1",
+      "location": {
+        "longitude": 56.601441,
+        "latitude": 23.45984561,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Justin Batemann",
+      "emailId": "friendscamera2@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_2",
+      "location": {
+        "longitude": 56.601442,
+        "latitude": 23.45984562,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Michele Anna",
+      "emailId": "friendscamera3@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_3",
+      "location": {
+        "longitude": 56.601443,
+        "latitude": 23.45984563,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Ausitn Huwe",
+      "emailId": "friendscamera4@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_4",
+      "location": {
+        "longitude": 56.601444,
+        "latitude": 23.45984564,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "FriendsCamera-5",
+      "emailId": "friendscamera5@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": 2147483647,
+      "identifier": "Identifier_FriendsCamera_5",
+      "location": {
+        "longitude": 56.601445,
+        "latitude": 23.45984565
+      }
+    },
+    {
+      "name": "Friends Camera-6",
+      "emailId": "friendscamera6@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_6",
+      "location": {
+        "longitude": 56.601446,
+        "latitude": 23.45984566,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Nigel Quine",
+      "emailId": "friendscamera7@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_7",
+      "location": {
+        "longitude": 56.601447,
+        "latitude": 23.45984567,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Friends Camera-8",
+      "emailId": "friendscamera8@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_8",
+      "location": {
+        "longitude": 56.601448,
+        "latitude": 23.45984568,
+        "imageMap": null
+      }
+    },
+    {
+      "name": "Amanda Kruger",
+      "emailId": "friendscamera9@gmail.com",
+      "cameraUrl": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
+      "phone": "2147483647",
+      "identifier": "Identifier_FriendsCamera_9",
+      "location": {
+        "longitude": 56.601449,
+        "latitude": 23.45984569,
+        "imageMap": null
+      }
+    }
+  ]
+}

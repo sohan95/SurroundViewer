@@ -1,0 +1,42 @@
+{
+  "rows": [
+    {
+      "categoryName": "News",
+      "identifier": "Identifier_FriendsCamera_0",
+      "categoryImageUrl": "https://i.ytimg.com/vi/hmg4HvFgzls/maxresdefault.jpg",
+      "channels": [
+        {
+          "channelName":"BBC One",
+          "identifier":"asasasafjdkfl",
+          "url":"http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8",
+          "channelImageUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/BBC_One_2002.png"
+        },
+        {
+          "channelName":"TRT World",
+          "identifier":"asasasafjdkfl",
+          "url":"http://www.iptvsaga.com/play/tv3/0031.m3u8",
+          "channelImageUrl":"http://trtmuzik.net.tr/media/bf1e2175-4347-46f3-81ae-6daa3e7ba127/TRTWORLDHABER.png"
+        }
+      ]
+    },
+    {
+      "categoryName": "Sports",
+      "identifier": "Identifier_FriendsCamera_0",
+      "categoryImageUrl": "https://i.ytimg.com/vi/hmg4HvFgzls/maxresdefault.jpg",
+      "channels": [
+        {
+          "channelName":"ESPN 1",
+          "identifier":"asasasafjdkfl",
+          "url":"http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8",
+          "channelImageUrl":"http://www.hdicon.com/wp-content/uploads/2010/07/ESPN.png"
+        },
+        {
+          "channelName":"bein",
+          "identifier":"asasasafjdkfl",
+          "url":"http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/01.m3u8",
+          "channelImageUrl":"http://media.begeek.fr/2014/12/bein-sports.jpg"
+        }
+      ]
+    }
+  ]
+}

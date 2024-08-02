@@ -1,0 +1,122 @@
+{
+    "rows": [
+             {
+             "title": "Basement A",
+             "ipAddress": "50.242.178.52",
+             "password": "Test123@",
+             "userName": "admin",
+             "identifier": "Identifier_Camera_0",
+             "location": {
+             "longitude": 56.60144,
+             "latitude": 23.4598456,
+             "imageMap": null
+             }
+             },
+             {
+             "title": "Basement B",
+             "ipAddress": "50.242.178.52",
+             "password": "Test123@",
+             "userName": "admin",
+             "identifier": "Identifier_Camera_1",
+             "location": {
+             "longitude": 56.601441,
+             "latitude": 23.45984561,
+             "imageMap": null
+             }
+             },
+             {
+             "title": "Basement C",
+             "ipAddress": "50.242.178.52",
+             "password": "Test123@",
+             "userName": "admin",
+             "identifier": "Identifier_Camera_2",
+             "location": {
+             "longitude": 56.601442,
+             "latitude": 23.45984562,
+             "imageMap": null
+             }
+             },
+             {
+             "title": "Basement D",
+             "ipAddress": "50.242.178.52",
+             "password": "Test123@",
+             "userName": "admin",
+             "identifier": "Identifier_Camera_3",
+             "location": {
+             "longitude": 56.601443,
+             "latitude": 23.45984563,
+             "imageMap": null
+             }
+             },
+             {
+             "title": "Parking Lot South",
+             "ipAddress": "50.242.178.52",
+             "password": "Test123@",
+             "userName": "admin",
+             "identifier": "Identifier_Camera_4",
+             "location": {
+             "longitude": 56.601444,
+             "latitude": 23.45984564,
+             "imageMap": null
+             }
+             },
+             {
+             "title": "Parking Lot North",
+             "ipAddress": "50.242.178.52",
+             "password": "Test123@",
+             "userName": "admin",
+             "identifier": "Identifier_Camera_5",
+             "location": {
+             "longitude": 56.601445,
+             "latitude": 23.45984565
+             }
+             },
+             {
+             "title": "Parking Lot East",
+             "ipAddress": "50.242.178.52",
+             "password": "Test123@",
+             "userName": "admin",
+             "identifier": "Identifier_Camera_6",
+             "location": {
+             "longitude": 56.601446,
+             "latitude": 23.45984566
+             }
+             },
+             {
+             "title": "Parking Lot West",
+             "ipAddress": "50.242.178.52",
+             "password": "Test123@",
+             "userName": "admin",
+             "identifier": "Identifier_Camera_7",
+             "location": {
+             "longitude": 56.601447,
+             "latitude": 23.45984567,
+             "imageMap": null
+             }
+             },
+             {
+             "title": "Front Door",
+             "ipAddress": "50.242.178.52",
+             "password": "Test123@",
+             "userName": "admin",
+             "identifier": "Identifier_Camera_8",
+             "location": {
+             "longitude": 56.601448,
+             "latitude": 23.45984568,
+             "imageMap": null
+             }
+             },
+             {
+             "title": "Rear Door",
+             "ipAddress": "50.242.178.52",
+             "password": "Test123@",
+             "userName": "admin",
+             "identifier": "Identifier_Camera_9",
+             "location": {
+             "longitude": 56.601449,
+             "latitude": 23.45984569,
+             "imageMap": null
+             }
+             }
+             ]
+}
